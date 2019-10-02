@@ -9,5 +9,6 @@
 
 ## Demo Gallery
 
-* [SciView Demos](demo-gallery/sciview-demos.md)
+* [Published Examples](demo-gallery/sciview-demos.md)
+* [Feature Demos](demo-gallery/feature-demos.md)
 
