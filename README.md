@@ -4,7 +4,7 @@ Welcome to the sciview documentation!
 
 ## Quick Help
 
-![](.gitbook/assets/main-cheatsheet.jpg)
+![sciview showing an EM volume together with segmented neurons from the Cremi demo \(see Demo &amp;gt; Load Cremi Dataset and Neuron Labels\)](.gitbook/assets/main-cheatsheet.jpg)
 
 ### Navigation
 
