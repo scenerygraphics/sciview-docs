@@ -2,6 +2,11 @@
 
 * [Initial page](README.md)
 
+## Installation
+
+* [Installing Fiji](installation/installing-fiji.md)
+* [Installing the sciview plugin for Fiji](installation/installing-the-sciview-plugin-for-fiji.md)
+
 ## Image Analysis
 
 * [Creating and exporting Isosurfaces](image-analysis/creating-and-exporting-isosurfaces.md)
