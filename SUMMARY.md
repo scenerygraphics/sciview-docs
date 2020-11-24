@@ -18,3 +18,6 @@
 * [Published Examples](demo-gallery/sciview-demos.md)
 * [Feature Demos](demo-gallery/feature-demos.md)
 
+## Workshops
+
+* [I2K](workshops/i2k-2020.md)
