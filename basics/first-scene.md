@@ -34,6 +34,6 @@ Note that we can also interact with the scenegraph panel to do things like hidin
 
 Now take a screenshot so you can distribute your beautiful work:
 
-![](../.gitbook/assets/basics/first-scene/take-a-screenshots.png)
+![](../.gitbook/assets/basics/first-scene/take-a-screenshot.png)
 
 Great, you've got new material for your desktop wallpaper!
