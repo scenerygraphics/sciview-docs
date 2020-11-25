@@ -31,3 +31,9 @@ Now let's add some more primitive shapes to make something fun:
 Note that we can also interact with the scenegraph panel to do things like hiding nodes:
 
 ![](../.gitbook/assets/basics/first-scene/hiding-node.png)
+
+Now take a screenshot so you can distribute your beautiful work:
+
+![](../.gitbook/assets/basics/first-scene/take-a-screenshots.png)
+
+Great, you've got new material for your desktop wallpaper!
