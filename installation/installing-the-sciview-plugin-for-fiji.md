@@ -6,19 +6,19 @@
 
 If you don't have Fiji installed yet, [see the page on installing Fiji](installing-fiji.md).
 
-![](../.gitbook/assets/fiji-mainwindow%20%282%29.png)
+![](../.gitbook/assets/installation/fiji-mainwindow.png)
 
 ### 2. Open the Fiji Updater
 
 In the main Fiji window, click `Help` &gt; `Update...`
 
-![](../.gitbook/assets/fiji-update%20%281%29.png)
+![](../.gitbook/assets/installation/fiji-update.png)
 
 Fiji will scan your installation, and if necessary, suggest updates. If any updates are required, please install them before proceeding. You might need to restart Fiji in the process.
 
 If your installation is up-to-date, the updater will show you an empty window like this:
 
-![](../.gitbook/assets/fiji-updater%20%281%29.png)
+![](../.gitbook/assets/installation/fiji-updater%20%281%29.png)
 
 Should there be any pending updates, please click `Apply changes`, then repeat the steps up to here.
 
@@ -28,17 +28,17 @@ To now install sciview, click `Manage update sites`
 
 In the list, find the _SciView_ entry and activate it:
 
-![](../.gitbook/assets/fiji-updatesites-sciview.png)
+![](../.gitbook/assets/installation/fiji-updatesites-sciview.png)
 
 You can now click `Close`.  In the updater window, you will now see a list of files that the updater will download in order to download and install sciview. Click the `Apply changes` button to do that. Fiji will now download all necessary files for sciview, which might take a little moment.
 
-![](../.gitbook/assets/fiji-sciview-downloading.png)
+![](../.gitbook/assets/installation/fiji-sciview-downloading.png)
 
 ### 4. Restarting Fiji
 
 After the updater has completed downloading, you will be prompted to restart Fiji. Please do so. If you do not restart Fiji now, you will most likely run into problems.
 
-![](../.gitbook/assets/fiji-restart%20%281%29.png)
+![](../.gitbook/assets/installation/fiji-restart.png)
 
 ### 5. Ready to go!
 
@@ -61,19 +61,19 @@ The latest stable version of sciview \(from the _SciView_ update site\) and the 
 
 If you don't have Fiji installed yet, [see the page on installing Fiji](installing-fiji.md).
 
-![](../.gitbook/assets/fiji-mainwindow.png)
+![](../.gitbook/assets/installation/fiji-mainwindow.png)
 
 ### 2. Open the Fiji Updater
 
 In the main Fiji window, click `Help` &gt; `Update...`
 
-![](../.gitbook/assets/fiji-update.png)
+![](../.gitbook/assets/installation/fiji-update.png)
 
 Fiji will scan your installation, and if necessary, suggest updates. If any updates are required, please install them before proceeding. You might need to restart Fiji in the process.
 
 If your installation is up-to-date, the updater will show you an empty window like this:
 
-![](../.gitbook/assets/fiji-updater.png)
+![](../.gitbook/assets/installation/fiji-updater.png)
 
 Should there be any pending updates, please click `Apply changes`, then repeat the steps up to here.
 
@@ -81,19 +81,18 @@ Should there be any pending updates, please click `Apply changes`, then repeat t
 
 To add and activate the SciView-Unstable update site that contains the latest development version, click `Manage update sites`and in the update site window, click the `Add update site` button. A new, empty list entry will appear. In the first column, enter `SciView-Unstable`, and in the second column `https://sites.imagej.net/SciView-Unstable/`. The URL is case-sensitive. Then activate the newly added update site:
 
-![](../.gitbook/assets/fiji-sciview-unstable.png)
+![](../.gitbook/assets/installation/fiji-sciview-unstable.png)
 
 Click `Close`and `Apply changes`, then Fiji will download the latest development version of sciview.
 
-![](../.gitbook/assets/fiji-sciview-unstable-downloading.png)
+![](../.gitbook/assets/installation/fiji-sciview-unstable-downloading.png)
 
 ### 4. Restarting Fiji
 
 After the updater has completed downloading, you will be prompted to restart Fiji. Please do so. If you do not restart Fiji now, you will most likely run into problems.
 
-![](../.gitbook/assets/fiji-restart.png)
+![](../.gitbook/assets/installation/fiji-restart.png)
 
 ### 5. Ready to go!
 
 After restarting Fiji, you can launch sciview from `Plugins` &gt; `sciview`.
-

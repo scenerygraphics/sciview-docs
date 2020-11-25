@@ -10,7 +10,4 @@ Fiji can be downloaded from https://fiji.sc for Windows, macOS, and Linux. Downl
 
 Fiji says hello:
 
-![](../.gitbook/assets/fiji-mainwindow%20%281%29.png)
-
-
-
+![](../.gitbook/assets/installation/fiji-mainwindow.png)
