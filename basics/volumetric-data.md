@@ -28,9 +28,35 @@ Now let's do something fun. Start an animation to circle around your volume
 
 ![](../.gitbook/assets/basics/volumetric-data/circle-around-volume.png)
 
+Start recording a video
+
+![](../.gitbook/assets/basics/volumetric-data/start-recording-video.png)
+
+After some time, stop recording the videos
+
+![](../.gitbook/assets/basics/volumetric-data/stop-recording-video.png)
+
+### Changing colormap
+
+Let's change the colormap of a volume
+
+![](../.gitbook/assets/basics/volumetric-data/set-colormap.png)
+
+Voila, now we have a new colormap
+
+![](../.gitbook/assets/basics/volumetric-data/red-green-colormap.png)
+
+### Changing transfer function
+
+Let's change the transfer function
+
+![](../.gitbook/assets/basics/volumetric-data/set-transfer-function.png)
+
+Voila, now we have a new transfer function
+
+![](../.gitbook/assets/basics/volumetric-data/adjusted-transfer-function.png)
 
 
-- Look up tables
-- Transfer functions
+
 - Timeseries
 - Generative models?
