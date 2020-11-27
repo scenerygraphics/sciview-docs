@@ -16,7 +16,6 @@
 
 * [First Scene](basics/first-scene.md)
 * [Volumetric Data](basics/volumetric-data.md)
-* [Screenshots and Videos](basics/screenshots-and-videos.md)
 
 ## Image Analysis
 
