@@ -56,7 +56,16 @@ Voila, now we have a new transfer function
 
 ![](../.gitbook/assets/basics/volumetric-data/adjusted-transfer-function.png)
 
+### What about timeseries?
 
+No problem! Try the "Volume Timeseries" demo
 
-- Timeseries
-- Generative models?
+![](../.gitbook/assets/basics/volumetric-data/demo-timeseries.png)
+
+You'll get a volume that looks like this
+
+![](../.gitbook/assets/basics/volumetric-data/opened-demo-timeseries.png)
+
+Now press play and enjoy
+
+![](../.gitbook/assets/basics/volumetric-data/play-demo-timeseries.png)
