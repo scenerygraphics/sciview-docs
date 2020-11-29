@@ -35,3 +35,9 @@ Almost there! Now expand the directories with your code inside IntelliJ
 Open "MyDemo" and you will see the code for this command
 
 ![](../.gitbook/assets/development/first-command/source-MyDemo.png)
+
+### Tips for making your command
+
+IntelliJ provides many additional features that can speed up your coding process, such as autocompletion of commands. Try typing `sciView.` and see the menu that shows up:
+
+![](../.gitbook/assets/development/first-command/auto-completion.png)
