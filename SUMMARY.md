@@ -19,7 +19,6 @@
 
 ## Image Analysis
 
-* [Mesh Processing](image-analysis/mesh-processing.md)
 * [Creating and Exporting Isosurfaces](image-analysis/creating-and-exporting-isosurfaces.md)
 * [Image Registration](image-analysis/image-registration.md)
 * [Voxelization](image-analysis/voxelization.md)
