@@ -6,7 +6,7 @@
 
 * [Installing Fiji](installation/installing-fiji.md)
 * [Installing the sciview plugin for Fiji](installation/installing-the-sciview-plugin-for-fiji.md)
-* [Installing the development version of the sciview plugin for Fiji](installation/installing-the-sciview-plugin-for-fiji.md)
+* [Installing the development version of the sciview plugin for Fiji](installation/installing-the-development-sciview-plugin-for-fiji.md)
 
 ## Demo Gallery
 
