@@ -36,7 +36,7 @@
 
 ## VR & AR
 
-* [VR & AR](XR/VR-AR)
+* [VR & AR](vr-and-ar/vr-and-ar.md)
 
 ## Development
 
@@ -50,3 +50,4 @@
 ## Surveys
 
 * [I2K](surveys/i2k-2020.md)
+
