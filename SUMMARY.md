@@ -28,7 +28,6 @@
 
 * [Point Clouds](complex-data/point-clouds.md)
 * [3D Segmentations](complex-data/segmentations.md)
-* [Tracking](complex-data/tracking.md)
 
 ## Scripting
 
