@@ -18,13 +18,13 @@ Open your file of interest from the Fiji main window. In this example, we use th
 
 ## 3. Figure out the isosurface value
 
-![](../.gitbook/assets/3%20%281%29.png)
+![](../.gitbook/assets/3%20%281%29%20%281%29.png)
 
 When hovering with the mouse over the image you've just opened, Fiji will tell you the greyscale value under the cursor in the main window. you can use this to figure out the value you would like to use for the isosurface. In this example, we use **399**.
 
 ## 4. Create the isosurface
 
-![](../.gitbook/assets/4.png)
+![](../.gitbook/assets/4%20%281%29.png)
 
 In the sciview window, click _Process &gt; Isosurface._ This will open the window above. Enter the isosurface value you have determined. In case you have multiple images open in Fiji, these will show up in the _Image_ dropdown. Be sure to select the correct image. Then click _OK_ to create the isosurface. This might take a little while, depending on the size of the dataset.
 

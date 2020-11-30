@@ -41,3 +41,4 @@ print('My first script!')
 ```
 
 This line is normal Python code that displays "My first script!" in the console. You can use these print statements to help debug your code in more advanced scripts.
+
