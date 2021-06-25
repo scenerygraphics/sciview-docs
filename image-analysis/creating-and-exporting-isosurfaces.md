@@ -18,7 +18,7 @@ Open your file of interest from the Fiji main window. In this example, we use th
 
 ## 3. Figure out the isosurface value
 
-![](../.gitbook/assets/3%20%281%29%20%281%29.png)
+![](../.gitbook/assets/3%20%281%29%20%281%29%20%281%29.png)
 
 When hovering with the mouse over the image you've just opened, Fiji will tell you the greyscale value under the cursor in the main window. you can use this to figure out the value you would like to use for the isosurface. In this example, we use **399**.
 
