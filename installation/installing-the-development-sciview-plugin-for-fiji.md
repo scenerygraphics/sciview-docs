@@ -4,6 +4,13 @@
 
 **Warning:** Using the latest development version might or might not work, so we only recommend this for experienced users who want to use the latest features or need a bugfix that is not yet present in the most current stable version.
 
+Development versions now use different update sites, so it's easier to switch to a new version. Refer to the table below to see what is the current version.
+
+| Update site name | Status |
+| :--- | :--- |
+| `sciview-buttercup` | **Current & supported** |
+| `sciview-ageratum` | Deprecated |
+
 ### 0. Removing the stable version
 
 **This only applies if you have previously installed sciview**
