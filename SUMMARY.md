@@ -46,9 +46,9 @@
 
 ## Workshops
 
+* [HIP 2021](workshops/hip-2021.md)
 * [I2K 2020](workshops/i2k-2020.md)
 
 ## Surveys
 
-* [HIP 2021](surveys/hip-2021.md)
 * [I2K 2020](surveys/i2k-2020.md)
