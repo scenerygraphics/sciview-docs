@@ -50,5 +50,5 @@
 
 ## Surveys
 
+* [HIP 2021](surveys/hip-2021.md)
 * [I2K 2020](surveys/i2k-2020.md)
-
