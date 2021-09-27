@@ -1,0 +1,16 @@
+# Mesh processing
+
+## Importing and exporting meshes
+
+## Isosurface extraction
+
+This is explained in greater detail [here](../image-analysis/creating-and-exporting-isosurfaces.md)
+
+## Voxelization
+
+This is explained in greater detail
+[here](../image-analysis/voxelization.md)
+
+## Mesh smoothing
+
+TBA
