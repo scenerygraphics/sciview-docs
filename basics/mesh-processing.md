@@ -16,7 +16,3 @@ This is explained in greater detail [here](../image-analysis/creating-and-export
 
 This is explained in greater detail
 [here](../image-analysis/voxelization.md)
-
-## Mesh smoothing
-
-TBA
