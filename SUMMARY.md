@@ -17,6 +17,7 @@
 
 * [First Scene](basics/first-scene.md)
 * [Volumetric Data](basics/volumetric-data.md)
+* [Mesh Processing](basics/mesh-processing.md)
 
 ## Image Analysis
 
