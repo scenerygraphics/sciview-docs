@@ -1,6 +1,12 @@
+---
+description: 'Overview of mesh processing in sciview'
+---
+
 # Mesh processing
 
 ## Importing and exporting meshes
+
+Mesh importing and exporting is explained in greater detail [here](../basics/mesh-io.md).
 
 ## Isosurface extraction
 
