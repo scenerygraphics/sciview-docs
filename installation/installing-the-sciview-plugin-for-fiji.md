@@ -1,4 +1,24 @@
-# Installing the sciview plugin for Fiji
+# Installing the development version of the sciview plugin for Fiji
+
+## Installing the latest development version
+
+sciview versions now use different update sites, so it's easier to switch to a new version. Refer to the table below to see what is the current version.
+
+| Update site name | Status |
+| :--- | :--- |
+| `sciview-buttercup` | **Current & supported** |
+| `sciview-ageratum` | Deprecated |
+
+### 0. Removing the stable version
+
+**This only applies if you have previously installed sciview**
+
+The latest stable version of sciview \(from the _SciView_ update site\) and the latest development version \(from the _sciview-buttercup_ update site\) cannot be use simultaneously. If you want to switch from stable to development version, you need to remove the stable version first. Execute this step if you have currently activated the _SciView_ update site. Otherwise you can skip this step.
+
+1. Open the Fiji Updater via `Help` &gt; `Update...` in the Fiji main window.
+2. Click `Manage update sites`and deactivate the _SciView_ update site by removing the tick mark.
+3. Click `Close`, then `Apply changes`in the updater window. The release version of sciview will now be removed.
+4. Restart Fiji.
 
 ### 1. Open Fiji
 
@@ -16,21 +36,19 @@ Fiji will scan your installation, and if necessary, suggest updates. If any upda
 
 If your installation is up-to-date, the updater will show you an empty window like this:
 
-![](https://github.com/scenerygraphics/sciview-docs/tree/3e0f315d420e91e65bf525553f270e93c203fe30/.gitbook/assets/installation/fiji-updater%20%281%29.png)
+![](../.gitbook/assets/fiji-updater%20%282%29%20%282%29.png)
 
 Should there be any pending updates, please click `Apply changes`, then repeat the steps up to here.
 
-### 3. Activating the sciview Update Site
+### 3. Adding and Activating the sciview Development Update Site
 
-To now install sciview, click `Manage update sites`
+To add and activate the sciview-buttercup update site that contains the latest development version, click `Manage update sites`and in the update site window, click the `Add update site` button. A new, empty list entry will appear. In the first column, enter `sciview-buttercup`, and in the second column `https://sites.imagej.net/sciview-buttercup/`. The URL is case-sensitive. Then activate the newly added update site by clicking the checkbox in front of the line you just added:
 
-In the list, find the _SciView_ entry and activate it:
+![](../.gitbook/assets/fiji-sciview-unstable%20%281%29.png)
 
-![](../.gitbook/assets/fiji-updatesites-sciview%20%281%29%20%281%29.png)
+Click `Close`and `Apply changes`, then Fiji will download the latest development version of sciview.
 
-You can now click `Close`. In the updater window, you will now see a list of files that the updater will download in order to download and install sciview. Click the `Apply changes` button to do that. Fiji will now download all necessary files for sciview, which might take a little moment.
-
-![](../.gitbook/assets/fiji-sciview-downloading%20%281%29%20%281%29.png)
+![](../.gitbook/assets/fiji-sciview-unstable-downloading%20%281%29%20%281%29.png)
 
 ### 4. Restarting Fiji
 
@@ -40,7 +58,5 @@ After the updater has completed downloading, you will be prompted to restart Fij
 
 ### 5. Ready to go!
 
-After restarting Fiji, sciview is ready to use. Find sciview under `Plugins` &gt; `sciview`.
-
-
+After restarting Fiji, you can launch sciview from `Plugins` &gt; `sciview`.
 
