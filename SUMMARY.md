@@ -34,6 +34,7 @@
 
 * [First scripts](scripting/first-scripts.md)
 * [Animations](scripting/animations.md)
+* [Find and Count Cells](scripting/find_and_count_cells.md)
 
 ## VR & AR
 
