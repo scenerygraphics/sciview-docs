@@ -10,5 +10,4 @@ Fiji can be downloaded from [https://fiji.sc](https://fiji.sc) for Windows, macO
 
 Fiji says hello:
 
-![](../.gitbook/assets/fiji-mainwindow%20%285%29%20%282%29%20%285%29.png)
-
+![](<../.gitbook/assets/fiji-mainwindow (5) (2) (3).png>)
