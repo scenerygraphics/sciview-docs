@@ -8,10 +8,11 @@
 * [Installing the sciview plugin for Fiji](installation/installing-the-sciview-plugin-for-fiji.md)
 * [Installing the development version of the sciview plugin for Fiji](installation/installing-the-development-sciview-plugin-for-fiji.md)
 
-## Demo Gallery
+## Demo Gallery & Recipes
 
-* [Published Examples](demo-gallery/sciview-demos.md)
-* [Feature Demos](demo-gallery/feature-demos.md)
+* [Published Examples](demo-gallery-and-recipes/sciview-demos.md)
+* [Feature Demos](demo-gallery-and-recipes/feature-demos.md)
+* [Recipes](demo-gallery-and-recipes/recipes.md)
 
 ## Basics
 
@@ -34,7 +35,7 @@
 
 * [First scripts](scripting/first-scripts.md)
 * [Animations](scripting/animations.md)
-* [Find and Count Cells](scripting/find_and_count_cells.md)
+* [Find and Count Cells](scripting/find\_and\_count\_cells.md)
 
 ## VR & AR
 
