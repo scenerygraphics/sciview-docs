@@ -4,7 +4,7 @@ We will explore this demo using IntelliJ, partially because the benefit of auto-
 
 ![](../.gitbook/assets/select-ShowSegmentationDemo-source-tree.png)
 
-This demo begins with a demo image. The details of how this image is generated aren't important, but it creates a tuneable number of spheres in random positions within a `(100,100,100)` image \(aka RandomAccessibleInterval\).
+This demo begins with a demo image. The details of how this image is generated aren't important, but it creates a tuneable number of spheres in random positions within a `(100,100,100)` image (aka RandomAccessibleInterval).
 
 ![](../.gitbook/assets/generated-image-source.png)
 
@@ -14,9 +14,9 @@ We then display this image as a volume in sciview
 
 ![](../.gitbook/assets/generated-volume.png)
 
-Now comes a key step, we perform what is called a "Connected Components Analysis" \(aka CCA\), which assigns all connected pixels to a specific label. Each of these labels represents a segmentation.
+Now comes a key step, we perform what is called a "Connected Components Analysis" (aka CCA), which assigns all connected pixels to a specific label. Each of these labels represents a segmentation.
 
-Note one nuance of this is that if 2 of our randomly generated spheres overlap, they will be treated as being connected.
+Note: one nuance of this is that if 2 of our randomly generated spheres overlap, they will be treated as being connected.
 
 An alternative would have been to use the pixel values of the image to create each `LabelRegion`. However, in practice that is not a luxury that an image analyst has.
 
@@ -27,4 +27,3 @@ The next thing to do is to create meshes for each segmentation label that we hav
 ![](../.gitbook/assets/create-meshes-source.png)
 
 ![](../.gitbook/assets/display-segmentation-meshes.png)
-
