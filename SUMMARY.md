@@ -46,6 +46,7 @@
 * [First Demo Command](development/first-demo-command.md)
 * [Customizing the Inspector](development/customizing-inspector.md)
 * [Update sites](development/update-sites.md)
+* [Benchmarking](development/benchmarking.md)
 
 ## Workshops
 
